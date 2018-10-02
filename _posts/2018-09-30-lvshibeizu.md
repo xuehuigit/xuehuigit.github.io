@@ -43,11 +43,16 @@ title: 【9月30日快讯 | 律师依法会见被捕工人再次受阻】
 
 [https://jiashi-syt.github.io/](https://jiashi-syt.github.io/)
 
-为相关消息的官方发布网址，请大家收藏，经常浏览，积极转发！推荐大家翻墙！
+为相关消息固定的官方发布网址，已经被封锁，但将保持更新，请大家翻墙浏览，翻墙方法已在最下方展示！请大家收藏，经常浏览，积极转发！
 
-★若此网址被封，请转移至：★
 
-[https://jiashi-syt01.github.io/](https://jiashi-syt01.github.io/)
+★以下网站可以免翻墙浏览，也将第一时间保持更新★
 
-网址规律：数字更换为02、03、04…以此类推！请为营救所有工人同胞转发！
+[https://jiashi-syt05.github.io/](https://jiashi-syt05.github.io/)
+
+如以上被封锁，请浏览至
+
+[https://jiashi-syt06.github.io/](https://jiashi-syt06.github.io/)
+
+将数字更换为06、07、08...以此类推！请为营救所有工人同胞转发！
 
