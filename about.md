@@ -12,5 +12,5 @@ permalink: /about/
 
 ### 本网站将持续记录佳士工人建会斗争过程，实时报道佳士工友和声援团人士的最新情况，请所有社会热心人士帮助传播扩散，投稿宣传，共同营救工人同胞！
 
-### 联系邮箱：[jiashishengyuantuan@protonmail.com](mailto:jiashishengyuantuan@protonmail.com)
+### 联系邮箱：[jiashishengyuantuan@gmail.com](mailto:jiashishengyuantuan@gmail.com)
 
