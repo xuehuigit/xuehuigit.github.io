@@ -100,3 +100,6 @@ title: 莫须有！施虐狂！性骚扰！佳士工友被拘押后经历了这�
 
   [1]: http://wx2.sinaimg.cn/mw690/0060lm7Tly1fu1cw6wleuj30hs0a878r.jpg
   [2]: http://wx3.sinaimg.cn/mw690/0060lm7Tly1fu1cxsmg0fj30kb078thx.jpg
+
+---
+关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
