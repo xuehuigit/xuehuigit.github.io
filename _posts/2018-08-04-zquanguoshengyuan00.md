@@ -176,3 +176,6 @@ comments: true
 无产阶级万岁！
 全文：<a href='http://sdxf20.tk/13504'>http://sdxf20.tk/13504</a>
 联名邮箱：jiangxishengyuan@yandex.com
+
+---
+关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
