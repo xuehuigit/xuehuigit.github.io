@@ -41,4 +41,5 @@ title: 【大地起风雷】全国工农学声援佳士工友合集！速保存�
 [https://shengyuangongyou.github.io/maoxueshengyuan/](https://shengyuangongyou.github.io/maoxueshengyuan/)
 
 
-
+---
+关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
