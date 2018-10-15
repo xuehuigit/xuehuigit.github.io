@@ -125,24 +125,7 @@ title: 8·24北方清场纪实|佳悦、少强、向伟、杨雪，广州警方�
 
 <b>广州警察是没把我带走，但我决不会顺这个台阶下，从此销声匿迹。</b>声援团那么多同志勇敢地站出来控诉广东警方的暴行，<b><font color="dd0000">我们每一个对黑恶势力有切身体会的同志，都应该揭露这披着羊皮的狼，这是做人的良知，更是立场的选择。而我们，就是站在工人阶级的立场上，站在马克思主义的立场上，为营救被捕同胞继续战斗！</font></b>
 
-联署抗议邮箱：jiashilianming@gmail.com
+联署抗议邮箱：jiashishengyuantuan@gmail.com
 
 ---
-
----
-
-【官方网址|佳士工人和声援团最新消息文章获取】
-全中国、全社会关注佳士建会事件的正义人士：
-
-★网址★
-
-[https://zhichijianhuigongren01.github.io/archive/](https://zhichijianhuigongren01.github.io/archive/)
-
-为相关消息的官方发布网址，请大家收藏，经常浏览，积极转发！推荐大家翻墙！
-
-★若此网址被封，请转移至：★
-
-[https://zhichijianhuigongren02.github.io/archive/](https://zhichijianhuigongren02.github.io/archive/)
-
-网址规律：数字更换为01、02、03...以此类推！
-请为营救所有工人同胞转发！
+关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
