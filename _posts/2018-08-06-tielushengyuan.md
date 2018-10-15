@@ -32,3 +32,7 @@ comments: true
 </ol>
 <p class="zw-paragraph" style="line-height: 1.5; text-indent: 0.291667in;" data-tabpoints="[{&quot;leader&quot;:&quot;0&quot;,&quot;id&quot;:&quot;0&quot;,&quot;align&quot;:&quot;0&quot;,&quot;point&quot;:&quot;0.21666666666666667in&quot;}]" data-textformat="{&quot;ff&quot;:&quot;华文仿宋&quot;,&quot;fgc&quot;:&quot;rgb(25,25,25)&quot;,&quot;size&quot;:&quot;10.5&quot;,&quot;bgc&quot;:&quot;rgb(255,255,255)&quot;}" data-tab-info="[{&quot;leader&quot;:&quot;0&quot;,&quot;id&quot;:&quot;0&quot;,&quot;align&quot;:&quot;0&quot;,&quot;point&quot;:&quot;0.21666666666666667in&quot;}]" data-writer-border-info="{&quot;border-sides&quot;:[]}"><span class="EOP">&nbsp;</span></p>
 <p><span style="font-family: 华文仿宋; font-size: 13pt; color: #191919; background-color: #ffffff;">616铁路工人代表：李伟杰</span></p>
+
+
+---
+关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
