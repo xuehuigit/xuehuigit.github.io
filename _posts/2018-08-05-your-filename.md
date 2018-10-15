@@ -64,3 +64,6 @@ title: 纪念恩格斯逝世及《炮打司令部》发表：长夜难明，百�
 
   [1]: http://wx4.sinaimg.cn/mw690/0060lm7Tly1ftz5k9824kj308b0bvjs3.jpg
   [2]: http://wx1.sinaimg.cn/mw690/0060lm7Tly1ftz5kc4gn1j30m60gmqdd.jpg
+
+---
+关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
