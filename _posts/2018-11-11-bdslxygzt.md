@@ -33,3 +33,5 @@ title: 就北京大学数名校友失联一事的声明
 
 <p align="center"><img src="https://i.loli.net/2018/11/11/5be80d54db9e2.jpg" alt="d0daad7e53e233c54ab5e431ffe43396.jpg" title="d0daad7e53e233c54ab5e431ffe43396.jpg" /></p>
 
+---
+关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
