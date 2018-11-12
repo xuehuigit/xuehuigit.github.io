@@ -29,7 +29,7 @@ title: 就北京大学数名校友失联一事的声明
 <p align="right">2018年11月11日</p>
 
 
-<p align="ceneter">联系我们，添加北大失联校友关注团微信</p>
+<p align="center">联系我们，添加北大失联校友关注团微信</p>
 
 <p align="center"><img src="https://i.loli.net/2018/11/11/5be80d54db9e2.jpg" alt="d0daad7e53e233c54ab5e431ffe43396.jpg" title="d0daad7e53e233c54ab5e431ffe43396.jpg" /></p>
 
