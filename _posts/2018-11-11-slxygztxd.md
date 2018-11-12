@@ -3,9 +3,8 @@ published: true
 layout: post
 tags: 北大失联校友关注团
 comments: true
-title:北大失联校友关注团最新行动
+title: 北大失联校友关注团最新行动
 ---
-
 
 
 ## 振振同学向围住他的保安和食堂经理说明情况
