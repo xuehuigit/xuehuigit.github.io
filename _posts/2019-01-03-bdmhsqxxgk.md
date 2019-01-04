@@ -28,5 +28,17 @@ comments: true
 真相从不畏惧公开，同学们将据理力争。希望能够得到大家的关注和支持！相信经过大家的一起努力，正义终将到来。我们也热切期盼，信息公开办公室能主持公道，不包庇、不纵容学校相关部门和领导的违法违规行为，还北大一个清明的政治环境。同学们也不会被动地等待结果，如果马会仍将以被迫的姿态离开北大，同学们不会放弃任何争取的空间。
 
 
+### 英文版
+
+January 3 2019, at around 11 am, twelve PKU students went to the Office of Information Disclosure in adminstration building. They asked the officials to provide information about the reshuffle of  the Marxism Society and the force clear-up on December 28, 2018.
+
+In the requistion documents, student activists specifically asked for three major points:
+1.CCTV records of first and second floor of the Natural Science Building 5 and surrounding areas from 14:00 pm December 28 2018 to 9:00 am the next day.
+2.Videos recorded by the securities’ law enforcement recording equipments.
+3.Meeting minutes from the December 27 PKU Marxism Society reshuffle meeting.
+
+Formal members of the PKU Marxism Society are demanding the truth of the 12.27 reshuffle and 12.28 force clear-up, to expose the illegal activities of the involved officials and departments. They believe that the truth would never fear about being exposed. Although they were abused by the faculties and members of the new ”Marxism Society”, they would keep struggling until justice finally come!
+
+
 ---
 关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
