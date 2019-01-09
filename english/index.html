@@ -1,0 +1,33 @@
+---
+layout: page
+title: 英文专栏
+permalink: /english/
+---
+
+{% if site.articles.size == 0 %}
+  <h2>No article found</h2>
+{% endif %}
+
+<ul class="english">
+  {% for article in site.articles %}
+    {% unless article.next %}
+  
+    {% else %}
+     
+      {% if year != nyear %}
+
+      {% endif %}
+    {% endunless %}
+
+    <li>
+      {% if article.link %}
+      <a href="{{ article.link }}">
+      {% else %}
+      <a href="{{ site.baseurl }}{{ article.url }}">
+      {% endif %}
+        {{ article.title }}
+      </a>
+      <time>{{ article.date | date: "%Y-%m-%d" }}</time>
+    </li>
+  {% endfor %}
+</ul>
