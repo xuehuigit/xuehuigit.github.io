@@ -32,7 +32,7 @@ navigation:
   - name: 栏目分类
     url: /tags
   - name: 英文专栏
-    url: /English
+    url: /english
 #  - name: Theme
 #    url: https://github.com/AWEEKJ/kiko-now
 
