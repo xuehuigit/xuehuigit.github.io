@@ -31,6 +31,8 @@ navigation:
     url: /archive
   - name: 栏目分类
     url: /tags
+  - name: 英文专栏
+    url: /English
 #  - name: Theme
 #    url: https://github.com/AWEEKJ/kiko-now
 
