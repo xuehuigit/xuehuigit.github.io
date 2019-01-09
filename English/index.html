@@ -1,16 +1,16 @@
 ---
 layout: page
-title: English
+title: 英文专栏
 permalink: /english/
 ---
 
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
+{% if site.articles.size == 0 %}
+  <h2>No article found</h2>
 {% endif %}
 
 <ul class="archive">
-  {% for post in site.posts %}
-    {% unless post.next %}
+  {% for article in site.articles %}
+    {% unless article.next %}
   
     {% else %}
      
@@ -20,14 +20,14 @@ permalink: /english/
     {% endunless %}
 
     <li>
-      {% if post.link %}
-      <a href="{{ post.link }}">
+      {% if article.link %}
+      <a href="{{ article.link }}">
       {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ article.url }}">
       {% endif %}
-        {{ post.title }}
+        {{ article.title }}
       </a>
-      <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+      <time>{{ article.date | date: "%Y-%m-%d" }}</time>
     </li>
   {% endfor %}
 </ul>
