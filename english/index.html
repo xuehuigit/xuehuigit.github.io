@@ -5,11 +5,11 @@ permalink: /english/
 ---
 
 {% if site.posts.size == 0 %}
-  <h2>No article found</h2>
+  <h2>No post found</h2>
 {% endif %}
 
 <ul class="english">
-  {% for article in site.categories.english %}
+  {% for post in site.categories.english %}
     {% unless post.next %}
   
     {% else %}
