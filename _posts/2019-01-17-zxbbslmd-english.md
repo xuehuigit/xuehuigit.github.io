@@ -49,4 +49,4 @@ categories: ['english']
 >Regarding the crackdown on the pneumoconiosis workers and their supporters (e.g., recently arrested NGO activist Baozi), the evil power consistently crackdown not just Jasic workers and supporters, but any group anti-oppression.  However, where there’s more oppression stimulates more rebellion.   We have always believed that ‘people, only the people, are the creators of history, and those against people will eventually be buried by history.
 
 ---
-Please visit the official website [https://jiashigrsyt.github.io/](https://jiashigrsyt.github.io/) to get the real-time news of jasic workers and the young marxist students in China！Please spread it to support the unite workers and students!
+Please visit the official website [https://jiashigrsyt.github.io/](https://jiashigrsyt.github.io/) to get the real-time news of jasic workers and the young marxist students in China！Please spread it to support the unite workers and young Marxist students !
