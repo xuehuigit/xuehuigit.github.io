@@ -4,13 +4,13 @@ title: 英文专栏
 permalink: /english/
 ---
 
-{% if site.articles.size == 0 %}
+{% if site.posts.size == 0 %}
   <h2>No article found</h2>
 {% endif %}
 
 <ul class="english">
-  {% for article in site.articles %}
-    {% unless article.next %}
+  {% for article in site.categories.english %}
+    {% unless post.next %}
   
     {% else %}
      
@@ -20,14 +20,14 @@ permalink: /english/
     {% endunless %}
 
     <li>
-      {% if article.link %}
-      <a href="{{ article.link }}">
+      {% if post.link %}
+      <a href="{{ post.link }}">
       {% else %}
-      <a href="{{ site.baseurl }}{{ article.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
       {% endif %}
-        {{ article.title }}
+        {{ post.title }}
       </a>
-      <time>{{ article.date | date: "%Y-%m-%d" }}</time>
+      <time>{{ post.date | date: "%Y-%m-%d" }}</time>
     </li>
   {% endfor %}
 </ul>
