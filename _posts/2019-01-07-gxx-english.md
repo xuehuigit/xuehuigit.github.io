@@ -12,4 +12,4 @@ Since PKU Marxism Society’s recent reshuffle, three university officials took 
 <p align="center">Since the unilateral reorganization,the articles published by the primary Marxist Society always suffer the shielding as "404" logo</p>
   
 ---
-关于佳士工人声援团官网网址更新实时信息以及翻墙防封锁访问方法，请下拉至文章页最下方查看！为支持进步学子共同关注传播扩散！
+Please visit the official website https://jiashigrsyt.github.io/ to get the real-time news of jasic workers and the young marxist students in China！Please spread it to support the unite workers and young Marxist students !
