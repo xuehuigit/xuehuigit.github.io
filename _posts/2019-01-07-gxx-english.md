@@ -2,7 +2,7 @@
 published: true
 layout: post
 comments: true
-title: gongkaixing
+title: "The Thank you letter to “Marxist” Society in PKU"
 categories: ['english']
 ---
 
